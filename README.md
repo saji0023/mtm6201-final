@@ -8,8 +8,11 @@ The website is built using the **Bootstrap framework**, is fully responsive, and
 ---
 
 ## Figma Design Files
-Readonly Figma design files for all 3 pages (mobile, tablet, desktop) can be found here:  
-[Insert your readonly Figma link here]
+Read-only Figma design files for all 3 pages (mobile, tablet, desktop) can be found here:  
+
+- mobile [https://www.figma.com/design/pezXexvTGiQLHlFItqUcId/Untitled?node-id=0-1&t=vKAbLh1cBCAJV13c-1]
+- tablet [https://www.figma.com/design/pezXexvTGiQLHlFItqUcId/Untitled?node-id=1-2&t=vKAbLh1cBCAJV13c-1]
+- desktop [https://www.figma.com/design/pezXexvTGiQLHlFItqUcId/Untitled?node-id=1-3&t=vKAbLh1cBCAJV13c-1]
 
 
 ---
