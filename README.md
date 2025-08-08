@@ -23,10 +23,10 @@ Readonly Figma design files for all 3 pages (mobile, tablet, desktop) can be fou
 ---
 
 ## Resources Used
-#Images
-- All images are stock images downloaded from [https://unsplash.com/]
-#fonts 
+- All images are stock images downloaded from [https://unsplash.com/] 
 - Arial (system font)
+
+
 ---
 
 ## Project Structure
