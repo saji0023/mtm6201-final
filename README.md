@@ -34,3 +34,19 @@ Read-only Figma design files for all 3 pages (mobile, tablet, desktop) can be fo
 
 ## Project Structure
 
+
+/mtm6201-final
+│
+├── index.html # Home page
+├── about.html # About page
+├── contact.html # Contact page
+├── css/
+│ └── styles.css # Custom CSS styles
+├── images/
+│ ├── corgi.jpg
+│ ├── golden.jpg
+│ ├── lab.jpg
+│ ├── max.jpg
+│ ├── millie.jpg
+│ └── puppies.jpg
+└── README.md # Project documentation
